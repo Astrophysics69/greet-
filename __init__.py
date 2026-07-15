@@ -1,2 +1,2 @@
 from .greet import greet
-from .version import __version__
+from ._version import __version__

@@ -1,3 +1,3 @@
-from greet import greet
+from greet import greet, hello, goodbye, greet_formal
 
 print(greet())

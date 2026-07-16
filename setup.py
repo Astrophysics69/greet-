@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="greet_package_updated",
-    version="0.2.0",
+    version="0.3.0",
     description="A simple greeting package",
     author="Arpit Soni",
     author_email="your-email@example.com",

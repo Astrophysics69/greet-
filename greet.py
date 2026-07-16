@@ -14,4 +14,4 @@ def goodbye(name="User"):
 def greet_formal():
     return "Greetings and salutations!"
 
-__version__ = "0.3.0"
+__version__ = "0.4.0"

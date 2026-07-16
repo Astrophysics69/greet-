@@ -1,6 +1,23 @@
-# Example Package
+# Greet Package
 
-This is a simple example package .
-the function to use is :
+A simple greeting package.
 
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+## Installation
+
+```bash
+pip install greet-package-updated
+```
+
+## Usage
+
+```python
+from greet import hello
+
+print(hello("Jai"))
+```
+
+Output
+
+```
+Hello, Jai!
+```
